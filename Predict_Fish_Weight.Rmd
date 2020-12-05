@@ -1,6 +1,6 @@
 ---
 title: "Weight of Fish"
-author: "Christina Maayah"
+author: "Christina raed Maayah"
 date: "Fall 2020"
 output: 
   html_document:
@@ -13,6 +13,7 @@ output:
 require(tigerstats)
 require(tidyverse)
 ```
+
 
 ```{r}
 Fishdata=read.csv("Fish.csv",header=TRUE)
